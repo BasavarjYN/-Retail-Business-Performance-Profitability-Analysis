@@ -1,5 +1,3 @@
-# Retail-Business-Performance-Profitability-Analysis
-
 
 # 🛒 Retail Business Performance & Profitability Analysis
 
